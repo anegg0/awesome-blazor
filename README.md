@@ -98,6 +98,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone.
 * [Money](https://github.com/maraf/Money) Money.
+* [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) Ethereum blockchain explorer and simple wallet.
 * [Randify](https://github.com/tinyioda/Randify) Spotify Playlist randomizer.
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
 * [RxBlazor](https://github.com/bmsantos/RxBlazor) Rx.NET based MessageService demo for Blazor Framework.
